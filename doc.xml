@@ -1,0 +1,47 @@
+<title>今日穿越明信片 · 2026年10月合集</title>
+
+<callout emoji="📮" background-color="light-orange" border-color="orange">
+  <p><b>这是什么？</b>每天挑一件"历史上的今天"发生过的事，让 AI 帮你写一封从那个年代寄来的明信片——配上那个时代风格的插画、一段第一人称的穿越寄语。本月已寄出 <b>1</b> 张，继续收集。</p>
+</callout>
+
+<h1>本月明信片</h1>
+
+<h2>10月9日 · 从1874年伯尔尼寄来的明信片</h2>
+
+<img path="@./postcard_1874_bernen.jpg" caption="BERN · 9 · OCT · 1874 — 邮戳盖在阿勒河的黄昏上"/>
+
+<p><b>事件：</b>1874年10月9日，22个国家的代表在瑞士伯尔尼签署《伯尔尼条约》，成立邮政总联盟——也就是今天的万国邮政联盟（UPU）。后来这一天被定为"<b>世界邮政日</b>"。</p>
+
+<blockquote>
+  <p>亲爱的2026年：此刻我坐在伯尔尼老城的咖啡馆里，窗外阿勒河正泛着黄昏的金。今天，22个国家的代表在这座小城里签下了一份当时看来不起眼的条约——他们说，从此以后，一枚邮票就能把一封信从地球的一端送到另一端。</p>
+  <p>我不知道152年后的你们还写不写信、寄不寄明信片，只希望这张明信片穿过蒸汽火车、远洋轮船、民航客机和无线电波，正好落在你手里。顺便说一句，今天后来被叫作"世界邮政日"。谢谢你，把它读完。</p>
+</blockquote>
+
+<table>
+  <colgroup><col width="140"/><col width="680"/></colgroup>
+  <tbody>
+    <tr><td background-color="light-gray"><p><b>历史年代</b></p></td><td><p>1874年 · 维多利亚时代</p></td></tr>
+    <tr><td background-color="light-gray"><p><b>寄出地点</b></p></td><td><p>瑞士 · 伯尔尼老城</p></td></tr>
+    <tr><td background-color="light-gray"><p><b>风格标签</b></p></td><td><p>维多利亚复古</p></td></tr>
+    <tr><td background-color="light-gray"><p><b>收藏评分</b></p></td><td><p>★★★★★（5/5）——开业第一张，必须满分</p></td></tr>
+    <tr><td background-color="light-gray"><p><b>资料来源</b></p></td><td><p><a href="https://www.dswxyjy.org.cn/GB/434461/434471/434551/index.html">中央党史和文献研究院 · 10月9日</a></p></td></tr>
+  </tbody>
+</table>
+
+<h1>关于这个项目</h1>
+
+<p><b>今日穿越明信片（Time Postcard）</b>是一个 AIGC 小项目，每天自动跑一遍下面这条流水线：</p>
+
+<ol>
+  <li><b>搜事件</b>：用搜索引擎查"历史上的今天 MM月DD日"发生过什么，挑最有画面感的那一件。</li>
+  <li><b>写寄语</b>：以当时在场人的第一人称口吻，写一段 150 字左右的明信片留言。</li>
+  <li><b>画插画</b>：用文生图模型生成对应年代风格的复古明信片插画。</li>
+  <li><b>存飞书</b>：把这张明信片自动写进飞书多维表格收藏夹，插画作为附件归档。</li>
+  <li><b>写文档</b>：每月底把当月所有明信片汇总成一份手账式文档，像翻一本老相册。</li>
+</ol>
+
+<p>代码开源在 GitHub：<a href="https://github.com/">time-postcard</a>（README 里有完整复现步骤）。</p>
+
+<hr/>
+
+<p><i>下一张明信片会从哪一年寄来？明天见。</i></p>

@@ -1,0 +1,20 @@
+[
+  {"type": "text", "name": "明信片标题"},
+  {"type": "text", "name": "历史年代"},
+  {"type": "text", "name": "事件地点"},
+  {"type": "text", "name": "历史事件"},
+  {"type": "text", "name": "穿越寄语"},
+  {"type": "datetime", "name": "事件发生日期", "style": {"format": "yyyy-MM-dd"}},
+  {"type": "datetime", "name": "寄出日期", "style": {"format": "yyyy-MM-dd"}},
+  {"type": "select", "name": "风格标签", "multiple": true, "options": [
+    {"name": "维多利亚复古", "hue": "Orange"},
+    {"name": "民国旧影", "hue": "Yellow"},
+    {"name": "盛唐风物", "hue": "Red"},
+    {"name": "大宋风华", "hue": "Green"},
+    {"name": "赛博朋克", "hue": "Purple"},
+    {"name": "未来科幻", "hue": "Blue"}
+  ]},
+  {"type": "number", "name": "评分", "style": {"type": "rating", "icon": "star", "min": 1, "max": 5}},
+  {"type": "text", "name": "资料来源", "style": {"type": "url"}},
+  {"type": "attachment", "name": "明信片插画"}
+]
