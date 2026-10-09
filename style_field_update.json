@@ -1,0 +1,14 @@
+{
+  "type": "select",
+  "name": "风格标签",
+  "multiple": true,
+  "options": [
+    {"name": "维多利亚复古", "hue": "Orange"},
+    {"name": "民国旧影", "hue": "Yellow"},
+    {"name": "盛唐风物", "hue": "Red"},
+    {"name": "大宋风华", "hue": "Green"},
+    {"name": "赛博朋克", "hue": "Purple"},
+    {"name": "未来科幻", "hue": "Blue"},
+    {"name": "70年代纪实", "hue": "Gray"}
+  ]
+}

@@ -1,0 +1,14 @@
+[
+  {"type": "text", "name": "用户来信"},
+  {"type": "select", "name": "情绪标签", "multiple": true, "options": [
+    {"name": "焦虑", "hue": "Red"},
+    {"name": "孤独", "hue": "Blue"},
+    {"name": "自我怀疑", "hue": "Gray"},
+    {"name": "目标感", "hue": "Green"},
+    {"name": "疲惫", "hue": "Yellow"},
+    {"name": "迷茫", "hue": "Purple"},
+    {"name": "勇气", "hue": "Orange"}
+  ]},
+  {"type": "text", "name": "共振匹配理由"},
+  {"type": "text", "name": "跨时空回信"}
+]
